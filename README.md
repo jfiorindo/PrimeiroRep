@@ -1,2 +1,4 @@
-# PrimeiroRep
- Primeiro repositorio versionado de teste
+# PrimeiroRepositório
+ Primeiro repositório versionado de teste.
+
+ Repositório criado para testes.
